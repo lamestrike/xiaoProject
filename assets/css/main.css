@@ -4052,6 +4052,10 @@ body:before {
   #header {
     min-width: 320px;
   }
+  #logo{
+    opacity: 0;
+    position: absolute;
+  }
 }
 
 /* Heading */

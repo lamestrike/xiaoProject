@@ -4574,3 +4574,16 @@ body.is-menu-visible #menu {
   height: 100%;
   width: auto;
 }
+
+#serList{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#serList li > p{
+  margin-bottom: 1em;
+}
+
+.servicesList{
+  font-weight: 600;
+}
